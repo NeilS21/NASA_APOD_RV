@@ -32,6 +32,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='https://i.imgur.com/AuBh2CK.gif' title='Video Demo' width='' alt='Video Demo' />
 <img src='https://i.imgur.com/0dll6kX.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='codepath_andr_w7_hw.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **screenToGif**
 
